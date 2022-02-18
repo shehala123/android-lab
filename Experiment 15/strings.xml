@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="fruits_array">
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Grapes</item>
+        <item>Banana</item>
+        <item>Jackfruit</item>
+        <item>Anar</item>
+        <item>Guava</item>
+
+    </string-array>
+</resources>
